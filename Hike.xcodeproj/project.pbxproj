@@ -14,6 +14,7 @@
 		F94D9D402A7C6BC2002EE516 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = F94D9D3F2A7C6BC2002EE516 /* Assets.xcassets */; };
 		F94D9D432A7C6BC2002EE516 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = F94D9D422A7C6BC2002EE516 /* Preview Assets.xcassets */; };
 		F94D9D4A2A7C6F05002EE516 /* CardView.swift in Sources */ = {isa = PBXBuildFile; fileRef = F94D9D492A7C6F05002EE516 /* CardView.swift */; };
+		F96ABA182A97075D005157B7 /* GradientButtonStyle.swift in Sources */ = {isa = PBXBuildFile; fileRef = F96ABA172A97075D005157B7 /* GradientButtonStyle.swift */; };
 		F9EF8DAB2A96C97C00D737D7 /* CustomButtonView.swift in Sources */ = {isa = PBXBuildFile; fileRef = F9EF8DAA2A96C97C00D737D7 /* CustomButtonView.swift */; };
 /* End PBXBuildFile section */
 
@@ -26,6 +27,7 @@
 		F94D9D3F2A7C6BC2002EE516 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		F94D9D422A7C6BC2002EE516 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		F94D9D492A7C6F05002EE516 /* CardView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CardView.swift; sourceTree = "<group>"; };
+		F96ABA172A97075D005157B7 /* GradientButtonStyle.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GradientButtonStyle.swift; sourceTree = "<group>"; };
 		F9EF8DAA2A96C97C00D737D7 /* CustomButtonView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CustomButtonView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -54,6 +56,7 @@
 			isa = PBXGroup;
 			children = (
 				F91059ED2A7EF0FB0022FB48 /* ColorExtension.swift */,
+				F96ABA172A97075D005157B7 /* GradientButtonStyle.swift */,
 			);
 			path = Utility;
 			sourceTree = "<group>";
@@ -169,6 +172,7 @@
 				F94D9D4A2A7C6F05002EE516 /* CardView.swift in Sources */,
 				F94D9D3C2A7C6BC0002EE516 /* HikeApp.swift in Sources */,
 				F9EF8DAB2A96C97C00D737D7 /* CustomButtonView.swift in Sources */,
+				F96ABA182A97075D005157B7 /* GradientButtonStyle.swift in Sources */,
 				F91059EB2A7EEA6D0022FB48 /* CustomBackgroundView.swift in Sources */,
 				F91059EE2A7EF0FB0022FB48 /* ColorExtension.swift in Sources */,
 			);
